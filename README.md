@@ -2,12 +2,12 @@
 この公開リポジトリは,原田裕貴の制作した作品を紹介する場所です。  
   
 【2.内容】  
-images　　　　　画像フォルダです。  
-javascripts　　　javascript関連フォルダです。  
-stylesheets　　　スタイルシートフォルダです。  
+images　　　　　　　画像フォルダです。  
+javascripts　　　　　javascript関連フォルダです。  
+stylesheets　　　　　スタイルシートフォルダです。  
 README.md　　　　このファイルです。  
-index.html　　　トップページです。  
-params.json　　　jsonファイル。  
+index.html　　　　　　トップページです。  
+params.json　　　　　jsonファイル。  
 
 【3.更新履歴】  
 2014/01/03　サイト更新.  
