@@ -17,4 +17,4 @@ params.json　　　jsonファイル。
 このサイトの閲覧により問題、損害等が発生しましても作者は責任をとりません。  
 全て自己責任において行ってください。  
   
-Copyright© 2013 YukiHarada.  
+Copyright© 2014 YukiHarada.  
