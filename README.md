@@ -18,4 +18,3 @@ params.json　　　　　jsonファイル。
 全て自己責任において行ってください。  
   
 Copyright© 2014 YukiHarada.  
-=========
